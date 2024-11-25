@@ -1,0 +1,35 @@
+<svg id='Mission_24' width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.42 0 0 0.42 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 5.5 -14)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,61,0); fill-rule: nonzero; opacity: 1;" transform=" translate(-29.5, -10)" d="M 25 6 L 34 10 L 25 14 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 -12.5)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(93,64,55); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -11.5)" d="M 23 4 L 25 4 L 25 19 L 23 19 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 12 13.34)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(144,164,174); fill-rule: nonzero; opacity: 1;" transform=" translate(-36, -37.34)" d="M 48 44 L 24 44 L 31.61 30.682 L 34 32 L 40 32 L 41.35 32.365 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 12.48 5.9)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(179,229,252); fill-rule: nonzero; opacity: 1;" transform=" translate(-36.48, -29.9)" d="M 41.35 32.365 L 41 35.792 L 37 32.714 L 34 35.792 L 31.61 30.682000000000002 L 35.137 24.507 C 35.523 23.831000000000003 36.476 23.831000000000003 36.863 24.507 L 41.35 32.365 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -12 13.34)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(144,164,174); fill-rule: nonzero; opacity: 1;" transform=" translate(-12, -37.34)" d="M 0 44 L 24 44 L 16.39 30.682 L 14 32 L 8 32 L 6.65 32.365 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 -12.48 5.9)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(179,229,252); fill-rule: nonzero; opacity: 1;" transform=" translate(-11.52, -29.9)" d="M 6.65 32.365 L 7 35.792 L 11 32.714 L 14 35.792 L 16.39 30.682000000000002 L 12.863 24.507 C 12.477 23.831000000000003 11.524 23.831000000000003 11.137 24.507 L 6.65 32.365 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 13)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(84,110,122); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -37)" d="M 40 44 L 8 44 L 14.84 32.15 L 18 30 L 30 30 L 33.16 32.15 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 -14)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(221,44,0); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -10)" d="M 23 6 L 25 6 L 25 14 L 23 14 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 2)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(129,212,250); fill-rule: nonzero; opacity: 1;" transform=" translate(-24, -26)" d="M 33.16 32.15 L 31 34 L 27.5 31 L 24 34 L 20.5 31 L 17 34 L 14.84 32.15 L 14.95 31.95 L 22.27 19.24 C 23.22 17.59 24.78 17.59 25.73 19.24 L 33.05 31.95 L 33.16 32.15 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
